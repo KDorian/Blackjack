@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cab882f7-6ccb-4f1a-bdfb-41ed7b454fed" name="Default" comment="" />
+    <list default="true" id="cab882f7-6ccb-4f1a-bdfb-41ed7b454fed" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +15,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Cards.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Cards.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cards.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -25,6 +27,27 @@
                 <element signature="e#362#363#0" expanded="true" />
                 <element signature="e#397#398#0" expanded="true" />
                 <element signature="e#428#429#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding>
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#601#602#0" expanded="true" />
+                <element signature="e#635#636#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#734#735#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -61,6 +84,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Cards.java" />
+        <option value="$PROJECT_DIR$/src/Player.java" />
       </list>
     </option>
   </component>
@@ -410,6 +434,25 @@
             <element signature="e#362#363#0" expanded="true" />
             <element signature="e#397#398#0" expanded="true" />
             <element signature="e#428#429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
           </folding>
         </state>
       </provider>
